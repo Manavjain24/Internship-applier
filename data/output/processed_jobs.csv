@@ -1,0 +1,6 @@
+company,job_title,location,source_platform,salary,date_posted,job_link,is_duplicate,priority,relevance_score,classification_reason,application_status
+Example Tech,Software Engineer Intern,New York NY,LoopCV,$35/hour,2026-08-20,https://example.com/jobs/1,False,High Priority,9,"Title indicates an internship, graduate, junior, entry-level, or trainee role.",Saved
+Bright Systems,Senior Software Engineer,Austin TX,LoopCV,$140000,2026-08-19,https://example.com/jobs/2,False,Not Applying,1,"Title indicates a senior, leadership, management, or clearly advanced role.",Not Applying
+DataWorks,Data Engineering Intern,Remote,LoopCV,$30/hour,2026-08-18,https://example.com/jobs/3,False,High Priority,9,"Title indicates an internship, graduate, junior, entry-level, or trainee role.",Saved
+Web Studio,Full Stack Developer Internship,Chicago IL,LoopCV,Not listed,2026-08-17,https://example.com/jobs/4,False,High Priority,9,"Title indicates an internship, graduate, junior, entry-level, or trainee role.",Saved
+North Star,Software Engineer I,Boston MA,LoopCV,Not listed,2026-08-16,https://example.com/jobs/5,False,Medium Priority,7,"Title matches a software, full-stack, backend, MERN, or data engineering role.",Saved
