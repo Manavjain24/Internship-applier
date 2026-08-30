@@ -25,6 +25,7 @@ COLUMN_ALIASES = {
     "source platform": "source_platform",
     "source": "source_platform",
     "salary": "salary",
+    "date added": "date_posted",
     "date posted": "date_posted",
     "posted date": "date_posted",
     "loopcv job link": "job_link",
